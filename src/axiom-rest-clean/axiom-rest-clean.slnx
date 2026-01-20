@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Axiom.Rest.Api/Axiom.Rest.Api.csproj" />
+  <Project Path="Axiom.Rest.Application/Axiom.Rest.Application.csproj" />
+  <Project Path="Axiom.Rest.Infrastructure/Axiom.Rest.Infrastructure.csproj" />
+  <Project Path="Axiom.Rest.Shared/Axiom.Rest.Shared.csproj" />
+  <Project Path="Axion.Rest.Domain/Axiom.Rest.Domain.csproj" />
+</Solution>
